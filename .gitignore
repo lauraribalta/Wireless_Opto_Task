@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.mat
+*.dat
+*.log
+.DS_Store
